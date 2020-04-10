@@ -1,6 +1,6 @@
 {
   "name": "@startrco/stylelint-config-scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stylelint config for SCSS",
   "keywords": [
     "stylelint",
@@ -27,7 +27,7 @@
     "url": "https://github.com/Startrco/stylelint-config/issues"
   },
   "dependencies": {
-    "@startrco/stylelint-config-base": "^1.0.0",
+    "@startrco/stylelint-config-base": "^1.0.1",
     "stylelint-scss": "^3.16.1"
   }
 }
