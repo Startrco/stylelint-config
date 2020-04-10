@@ -1,0 +1,21 @@
+{
+  "name": "@startrco/stylelint",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/startrco/stylelint"
+  },
+  "bugs": {
+    "url": "https://github.com/startrco/stylelint/issues"
+  },
+  "homepage": "https://github.com/startrco/stylelint",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "startrco"
+  ],
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}

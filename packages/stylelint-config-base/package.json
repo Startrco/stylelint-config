@@ -1,0 +1,38 @@
+{
+  "name": "@startrco/stylelint-config-base",
+  "version": "0.1.0",
+  "description": "Stylelint config for CSS",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "css",
+    "startrco"
+  ],
+  "author": "Aydin Senturk <hello@aydinsenturk.com>",
+  "homepage": "https://github.com/startrco/stylelint-config",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/startrco/stylelint-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/startrco/stylelint-config/issues"
+  },
+  "peerDependencies": {
+    "prettier": "^2.0.4",
+    "stylelint": "^13.3.1"
+  },
+  "dependencies": {
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.0.0",
+    "stylelint-prettier": "^1.1.2"
+  }
+}
