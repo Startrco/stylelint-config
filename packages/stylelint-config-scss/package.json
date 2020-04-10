@@ -1,0 +1,33 @@
+{
+  "name": "@startrco/stylelint-config-scss",
+  "version": "0.1.0",
+  "description": "Stylelint config for SCSS",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "scss",
+    "css",
+    "startrco"
+  ],
+  "author": "Aydin Senturk <hello@aydinsenturk.com>",
+  "homepage": "https://github.com/startrco/stylelint/tree/master/packages/stylelint-config-scss#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Startrco/stylelint-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Startrco/stylelint-config/issues"
+  },
+  "dependencies": {
+    "@startrco/stylelint-config-base": "^1.0.0",
+    "stylelint-scss": "^3.16.1"
+  }
+}
