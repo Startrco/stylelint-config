@@ -1,15 +1,15 @@
 {
   "name": "@startrco/stylelint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/startrco/stylelint"
+    "url": "https://github.com/startrco/stylelint-config"
   },
   "bugs": {
-    "url": "https://github.com/startrco/stylelint/issues"
+    "url": "https://github.com/startrco/stylelint-config/issues"
   },
-  "homepage": "https://github.com/startrco/stylelint",
+  "homepage": "https://github.com/startrco/stylelint-config",
   "keywords": [
     "stylelint",
     "stylelint-config",

@@ -10,7 +10,7 @@
     "startrco"
   ],
   "author": "Aydin Senturk <hello@aydinsenturk.com>",
-  "homepage": "https://github.com/startrco/stylelint/tree/master/packages/stylelint-config-scss#readme",
+  "homepage": "https://github.com/startrco/stylelint-config/tree/master/packages/stylelint-config-scss#readme",
   "license": "MIT",
   "main": "index.js",
   "publishConfig": {
