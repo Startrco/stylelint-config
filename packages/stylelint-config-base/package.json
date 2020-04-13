@@ -26,8 +26,8 @@
     "url": "https://github.com/startrco/stylelint-config/issues"
   },
   "peerDependencies": {
-    "prettier": "^1.19.1",
-    "stylelint": "^12.0.1"
+    "prettier": ">=1.19.1",
+    "stylelint": ">=12.0.1"
   },
   "dependencies": {
     "stylelint-config-prettier": "^7.0.0",
