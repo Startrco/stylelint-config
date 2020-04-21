@@ -1,10 +1,5 @@
 {
   "packages": ["packages/*"],
   "version": "independent",
-  "npmClient": "yarn",
-  "command": {
-    "version": {
-      "message": "Release %s"
-    }
-  }
+  "npmClient": "yarn"
 }
