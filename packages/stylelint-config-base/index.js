@@ -25,7 +25,7 @@ module.exports = {
       'border-left': ['none'],
     },
     'function-comma-space-after': 'always-single-line',
-    'function-parentheses-space-inside': 'always-multi-line',
+    'function-parentheses-space-inside': 'never-single-line',
     'function-url-quotes': 'always',
     'media-feature-name-no-vendor-prefix': true,
     'media-feature-parentheses-space-inside': 'never',
